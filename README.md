@@ -1,8 +1,16 @@
 eluna support reference for hobby
+
 branch with eluna
+
 https://github.com/ElunaLuaEngine/ElunaMangosClassic/tree/cd816aed92e9a68461dee8fc6a2319f46f9cf1a5
+
 original branch without eluna
+
 https://github.com/cmangos/mangos-classic/tree/35c06433932040f3ca9cad26de77ed2d41a4f70f
+
+eluna branch (src/game/LuaEngine)
+
+https://github.com/ElunaLuaEngine/Eluna/tree/6ca6f90f67988a9bbd78c6f1bbe370b2dac7107b
 
 
 
