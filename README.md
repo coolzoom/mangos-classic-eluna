@@ -1,3 +1,11 @@
+eluna support reference for hobby
+branch with eluna
+https://github.com/ElunaLuaEngine/ElunaMangosClassic/tree/cd816aed92e9a68461dee8fc6a2319f46f9cf1a5
+original branch without eluna
+https://github.com/cmangos/mangos-classic/tree/35c06433932040f3ca9cad26de77ed2d41a4f70f
+
+
+
 # C(ontinued)-MaNGOS -- README
 [![Linux Build Status](https://travis-ci.org/cmangos/mangos-classic.svg?branch=master)](https://travis-ci.org/cmangos/mangos-classic) [![Windows Build status](https://ci.appveyor.com/api/projects/status/github/cmangos/mangos-classic?branch=master&svg=true)](https://ci.appveyor.com/project/cmangos/mangos-classic/branch/master)
 
